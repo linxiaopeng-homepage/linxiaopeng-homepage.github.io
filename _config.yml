@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: 林啸鹏
 title: 银丰生物集团
-email: xiaopenglin2019@gmail.com
+# email: xiaopenglin2019@gmail.com
 # website: liru0126.github.io
 
 # Dark Mode (true/false/never)
@@ -31,12 +31,12 @@ darkmode: false
 
 # Additional icon links
 additional_links:
-- title: google scholar
-  icon: fab fa-google
-  url: https://scholar.google.com.sg/citations?hl=zh-CN&user=4cHM8rYAAAAJ
-# - title: another link
-#   icon: fas fa-envelope
-#   url: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=liru@std.uestc.edu.cn
+# - title: google scholar
+#   icon: fab fa-google
+#   url: https://scholar.google.com.sg/citations?hl=zh-CN&user=4cHM8rYAAAAJ
+- title: another link
+  icon: fas fa-envelope
+  url: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=xiaopenglin2019@gmail.com
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
