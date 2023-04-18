@@ -49,7 +49,7 @@ additional_links:
 about_title: 简介
 about_profile_image: images/yearyear.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I am
+  ****
 
 content:
 
@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 银丰生物集团
+        title: ***
         # link: grubhub.com
         # link_text: grubhub.com
         # sub_title: Signal and Information Processing
@@ -76,7 +76,7 @@ content:
         # sub_title: Signal and Information Processing
         caption: 2017年9月 - 2020年6月
         description: | # this will include new lines to allow paragraphs
-            ## **[山东大学（威海](https://www.wh.sdu.edu.cn/index.htm)**
+            ## **[山东大学（威海)](https://www.wh.sdu.edu.cn/index.htm)**
 
             海洋学院
         
@@ -89,7 +89,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             ## **[山东建筑大学](https://www.sdjzu.edu.cn)**
 
-            海洋学院
+            **学院
             
         
 # Google Analytics
