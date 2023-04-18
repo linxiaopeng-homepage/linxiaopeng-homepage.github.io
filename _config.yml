@@ -63,18 +63,8 @@ content:
         # sub_title: Signal and Information Processing
         caption: 2020年7月至今
         description: | # this will include new lines to allow paragraphs
-            ## **银丰生物集团**
-        
-      - layout: left
-        title: 学士
-        # link: grubhub.com
-        # link_text: grubhub.com
-        # sub_title: Signal and Information Processing
-        caption: 2012年9月 - 2016年6月
-        description: | # this will include new lines to allow paragraphs
-            ## **山东建筑大学**
-
-            海洋学院
+            ## **[银丰生物集团](http://www.yfswjt.com)**
+            
 
   - title: 教育经历 # Title for the section
     layout: list # Type of content section (list/text)
@@ -97,7 +87,7 @@ content:
         # sub_title: Signal and Information Processing
         caption: 2012年9月 - 2016年6月
         description: | # this will include new lines to allow paragraphs
-            ## **山东建筑大学**
+            ## **[山东建筑大学](https://www.sdjzu.edu.cn)**
 
             海洋学院
             
