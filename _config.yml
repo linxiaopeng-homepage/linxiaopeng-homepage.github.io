@@ -1,0 +1,135 @@
+# Site
+# repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: 林啸鹏
+title: 银丰生物集团
+email: xiaopenglin2019@gmail.com
+# website: liru0126.github.io
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: facespics
+# github_username:  liru0126
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+# linkedin_username: jameswgrant
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0002-7249-6848
+
+# Additional icon links
+additional_links:
+- title: google scholar
+  icon: fab fa-google
+  url: https://scholar.google.com.sg/citations?hl=zh-CN&user=4cHM8rYAAAAJ
+# - title: another link
+#   icon: fas fa-envelope
+#   url: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=liru@std.uestc.edu.cn
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me  
+about_title: 简介
+about_profile_image: images/yearyear.jpeg
+about_content: | # this will include new lines to allow paragraphs
+我
+
+content:
+
+  - title: 工作经历 # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 银丰生物集团
+        # link: grubhub.com
+        # link_text: grubhub.com
+        # sub_title: Signal and Information Processing
+        caption: 2020年7月至今
+        description: | # this will include new lines to allow paragraphs
+            ## **[银丰生物集团](http://www.yfswjt.com)**
+        
+      - layout: left
+        title: 学士
+        # link: grubhub.com
+        # link_text: grubhub.com
+        # sub_title: Signal and Information Processing
+        caption: 2012年9月 - 2016年6月
+        description: | # this will include new lines to allow paragraphs
+            ## **[山东建筑大学](https://www.sdjzu.edu.cn)**
+
+            海洋学院
+
+  - title: 教育经历 # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 硕士
+        # link: grubhub.com
+        # link_text: grubhub.com
+        # sub_title: Signal and Information Processing
+        caption: 2017年9月 - 2020年6月
+        description: | # this will include new lines to allow paragraphs
+            ## **[山东大学（威海](https://www.wh.sdu.edu.cn/index.htm)**
+
+            海洋学院
+        
+      - layout: left
+        title: 学士
+        # link: grubhub.com
+        # link_text: grubhub.com
+        # sub_title: Signal and Information Processing
+        caption: 2012年9月 - 2016年6月
+        description: | # this will include new lines to allow paragraphs
+            ## **[山东建筑大学](https://www.sdjzu.edu.cn)**
+
+            海洋学院
+            
+        
+# Google Analytics
+# google_analytics: true
+
+           
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+# reference_title: Last Updata: June 2022
+
+# Build settings
+# remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+ 
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
